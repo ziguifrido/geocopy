@@ -3,7 +3,7 @@
 GeoCopy is a high-performance, responsive Single Page Application (SPA) designed for rapid geographic place discovery and click-to-copy coordinate operations. Built using modern React, Tailwind CSS, Leaflet, and the OpenStreetMap (OSM) Nominatim API, it delivers a precise and seamless mapping utility.
 
 <div align="center">
-  <img src="/src/assets/images/geocopy_screenshot_1781561432164.jpg" alt="GeoCopy Dashboard Screenshot" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
+  <img src="/src/assets/images/geocopy_screenshot_1781561432164.jpg" alt="GeoCopy Dashboard" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
 </div>
 
 ## 🚀 Key Features
