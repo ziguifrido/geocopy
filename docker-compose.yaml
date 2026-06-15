@@ -1,0 +1,12 @@
+services:
+  geocopy:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: geocopy:latest
+    container_name: geocopy-app
+    ports:
+      - "3000:80"
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production

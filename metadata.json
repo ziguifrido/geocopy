@@ -1,0 +1,6 @@
+{
+  "name": "GeoCopy",
+  "description": "An elegant interactive map page with address search and quick coordinate copy feature on click.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
