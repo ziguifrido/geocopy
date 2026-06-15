@@ -17,6 +17,7 @@ import {
   Moon
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
+import logoImg from './assets/images/geocopy_logo_1781560704194.jpg';
 
 // Internal Modules / Types / Sub-components
 import { HistoryItem, SearchPlace, MAP_LAYERS, LayerId } from './types';
@@ -511,7 +512,7 @@ export default function App() {
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 bg-white rounded-lg overflow-hidden flex items-center justify-center border border-slate-755/50 shadow-inner flex-shrink-0">
               <img 
-                src="/src/assets/images/geocopy_logo_1781560704194.jpg" 
+                src={logoImg} 
                 alt="GeoCopy Logo" 
                 className="w-full h-full object-cover select-none pointer-events-none"
                 referrerPolicy="no-referrer"
