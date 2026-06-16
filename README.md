@@ -16,6 +16,7 @@ GeoCopy is a high-performance, responsive Single Page Application (SPA) designed
 - **Geolocate User (GPS)**: Quick geolocation tool to pan and center the map on your exact GPS location.
 - **Custom-Made Vector Brand Asset**: Styled with a professional logo icon detailing overlapped copies and a map pin.
 - **High Contrast Dark/Light Mode**: Full theme customization matching operating system preferences or toggle switches.
+- **PWA (Progressive Web App) Support**: Fully installable on iOS, Android, and Desktop platforms with offline capability, a registered service worker, application launch icons, and mobile optimization meta rules.
 
 ---
 
